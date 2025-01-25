@@ -17,5 +17,5 @@ A simple web app that allows users to input text and translate it into English u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/translation-app.git
+   git clone https://Dinukaawsh.github.io/translator
    cd translation-app
